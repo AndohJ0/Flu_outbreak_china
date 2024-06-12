@@ -151,7 +151,7 @@ value_box(
   title = "Total Cases",
   value = total_cases,
   showcase = sparkline,
-  full_screen = TRUE,
+  full_screen = FALSE,
   theme = value_box_theme(bg = "#518fd6"),
   p("First case on 2013-02-19")
 ) 
